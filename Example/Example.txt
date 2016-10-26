@@ -1,0 +1,2 @@
+Lua.exe "package.zip" "main.lua" "info.lua"
+Lua.exe run "package.zip"
